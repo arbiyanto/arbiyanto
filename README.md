@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, I am Arbi, experienced Developer from Indonesia. I am a young generation (20 years old) that has potential to grow rapidly. I'd like learning things even outside of IT and because of that, I have various abilities that can be utilized to build the best products.
+Hello, I am Arbi, experienced Developer from Indonesia. I am a young generation that has potential to grow rapidly. I'd like learning things even outside of IT and because of that, I have various abilities that can be utilized to build the best products.
 
 **Language & Tools**
 
