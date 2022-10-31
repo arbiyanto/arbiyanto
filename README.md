@@ -28,8 +28,9 @@ Hello, I am Arbi, experienced Developer from Indonesia. I am a young generation 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 
+**Main IDE**
+PHPStorm
 
 ## Support Me on Arxist
-<a href="https://arxist.com/arbiyanto" target="_blank"><img height="45" src="https://github.com/arbiyanto/arbiyanto/blob/master/buttons.png?raw=true"></a>
+<a href="https://arxist.id/arbiyanto" target="_blank">Arxist.id/arbiyanto</a>
