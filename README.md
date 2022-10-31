@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 Hello, I am Arbi, experienced Developer from Indonesia. I am a young generation that has potential to grow rapidly. I'd like learning things even outside of IT and because of that, I have various abilities that can be utilized to build the best products.
 
+**Contact** at arbiyanto@arxist.com
+
 **Language & Tools**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
