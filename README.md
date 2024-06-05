@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, I am Arbi, an experienced Developer, Leader/Founder, and Designer from Indonesia. 
+Hello, I am Arbi, a Developer, Leader/Founder, and Designer from Indonesia. 
 
 **Language & Tools**
 
