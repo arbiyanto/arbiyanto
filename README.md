@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, I am Arbi, a Developer, Leader/Founder, and Designer from Indonesia. 
+Hi, I am Arbi, a Developer, Leader/Founder, and Designer from Indonesia. Less green commit in my GitHub sometimes? There are four possible reasons:
+1. I was working on something else (Managing people/business/product, Designing, Teaching)
+2. I was working on the Gitlab Repository
+3. I was sick
+4. AI took my job and I don't need to code often :)
 
 **Language & Tools**
 
@@ -28,6 +32,8 @@ Hello, I am Arbi, a Developer, Leader/Founder, and Designer from Indonesia.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/74943865?s=48&v=4"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png"></code>
+<code><img height="20" src="https://claude.ai/images/claude_app_icon.png"></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/8931462?s=48&v=4"></code>
 
 **Main IDE**
 PHPStorm
