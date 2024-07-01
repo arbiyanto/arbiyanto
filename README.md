@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hi, I am Arbi, a Developer, Leader/Founder, and Designer from Indonesia. Currently optimizing workflow using AI.
 
-Less green commit in my GitHub sometimes? There are four possible reasons:
+Less green commit in my GitHub? There are four possible reasons:
 1. I was working on something else (Managing people/business/product, Designing, Teaching)
 2. I was working on the Gitlab Repository
 3. I was sick
