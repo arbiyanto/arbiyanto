@@ -8,7 +8,7 @@ Less green commit on my GitHub? There are four possible reasons:
 3. I was sick
 4. AI took my job and I don't need to code often :)
 
-In 2025, AI really took my job so I only commit once a day.
+In 2025, AI really took my job.
 
 **Language & Tools**
 
