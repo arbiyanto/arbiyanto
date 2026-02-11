@@ -24,5 +24,5 @@ In 2025, AI really took my job so I only commit once a day.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/8931462?s=48&v=4"></code>
 
-**Main IDE**
-Cursor (Now), PHPStorm (Former)
+**Main Workflow**
+Antigravity/Claude Code/Cursor (Now), PHPStorm (Former)
