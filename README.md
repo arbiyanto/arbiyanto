@@ -6,9 +6,7 @@ Less green commit on my GitHub? There are four possible reasons:
 1. I was working on something else (Managing people/business/product, Designing, Teaching)
 2. I was working on the Gitlab Repository
 3. I was sick
-4. AI took my job and I don't need to code often. (I'm joking, 2025 is hard time for me to do coding. Now in 2026, I burned 600M+ token and it's still going)
-
-In 2025, AI really took my job.
+4. AI took my job and I don't need to code often. (I'm joking, 2025 was hard time for me to do coding. Now in 2026, I burned 600M+ token and it's still going on)
 
 **Language & Tools**
 
