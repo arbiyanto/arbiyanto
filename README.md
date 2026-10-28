@@ -20,6 +20,7 @@ Current main tech stack:
 <code><img height="20" src="https://github.com/hashicorp.png?size=40"></code>
 <code><img height="20" src="https://github.com/postgres.png?size=40"></code>
 <code><img height="20" src="https://github.com/mysql.png?size=40"></code>
+<code><img height="20" src="https://github.com/expo.png?size=40"></code>
 
 All stacks that I've ever used:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -43,4 +44,4 @@ All stacks that I've ever used:
 <code><img height="20" src="https://github.com/mysql.png?size=40"></code>
 
 **Main Workflow**
-Antigravity/Claude Code/Cursor (Now), PHPStorm (Former)
+Antigravity/Claude Code/ZCode (Now), PHPStorm (Former)
